@@ -1,0 +1,12 @@
+{
+  "name": "quick-start-project",
+  "version": "1.0.0",
+  "description": "the base of the web challenges",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/styles.scss:src/style.css",
+    "serve": "php -S localhost:1234"
+  },
+  "author": "kirecprod",
+  "license": "ISC"
+}

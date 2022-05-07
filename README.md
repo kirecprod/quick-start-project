@@ -16,3 +16,5 @@ ouvrez un second terminal dans le dossier du projet et tappez la commande ``` ph
 puis, ouvrez votre navigateur et entrez l'url ``` localhost:1234 ``` dans la barre d'url.
 
 pour finir, faites ressortir votre créativité.
+
+---
